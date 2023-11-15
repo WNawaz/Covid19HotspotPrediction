@@ -5,7 +5,7 @@ This repository contains all the materials for our research article on predictin
 Identifying Infected Areas During Pandemic Through Social Mobility and Reported Cases
 
 # Important Links
-KCDC (Korea Centers for Disease Control and Prevention) Dataset: 
+KCDC (Korea Centers for Disease Control and Prevention) Dataset:
 https://www.kdca.go.kr/index.es?sid=a3 
 https://www.kaggle.com/kimjihoo/coronavirusdataset
 
