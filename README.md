@@ -5,13 +5,17 @@ This repository contains all the materials for our research article on predictin
 Identifying Infected Areas During Pandemic Through Social Mobility and Reported Cases
 
 **Important Links**
-KCDC (Korea Centers for Disease Control and Prevention) Dataset:
-https://www.kdca.go.kr/index.es?sid=a3 
-https://www.kaggle.com/kimjihoo/coronavirusdataset
-
 META’s Data for Good: 
 https://dataforgood.facebook.com/dfg/tools
 https://dataforgood.facebook.com/
+Facebook Traffic Data
+https://iuoffice365-my.sharepoint.com/:f:/g/personal/400286_iu_edu_sa/Et5jRn-mlgtGv1dlOXYSGZwBtliXrUoiXdJUXqIFVhTMtQ?e=QaY7QL
+Movements between Administrative Regions
+https://iuoffice365-my.sharepoint.com/:f:/g/personal/400286_iu_edu_sa/Ep_HsdLJWl1OvlHflw3Ryj4B5cTnEi_47W7P9l83xtfOgg?e=bQZtMy
+
+KCDC (Korea Centers for Disease Control and Prevention) Dataset:
+https://www.kdca.go.kr/index.es?sid=a3 
+https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 Coronavirus (COVID-19) tweets dataset: 
 https://dx.doi.org/10.21227/781w-ef42
