@@ -33,11 +33,9 @@ Republic of Korea situation-who-covid. https://covid19.who.int/region/wpro/count
 
 Who coronavirus (covid-19) dashboard. https://covid19.who.int/
 
-Korea-public Health Weekly report. https://www.kdca.go.kr/board/board.es?mid=
-a30501000000&bid=0031&cg_code=C06
+Korea-public Health Weekly report. https://www.kdca.go.kr/board/board.es?mid=a30501000000&bid=0031&cg_code=C06
 
-Build location intelligence into your app. https://location.foursquare.com/products/
-movement-sdk/
+Build location intelligence into your app. https://location.foursquare.com/products/movement-sdk/
 
 Public gps traces. https://www.openstreetmap.org/traces
 
