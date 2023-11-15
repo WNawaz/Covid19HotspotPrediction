@@ -5,6 +5,7 @@ This repository contains all the materials for our research article on predictin
 Identifying Infected Areas During Pandemic Through Social Mobility and Reported Cases
 
 **Important Links**
+
 META’s Data for Good: 
 https://dataforgood.facebook.com/dfg/tools
 https://dataforgood.facebook.com/
