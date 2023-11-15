@@ -6,11 +6,13 @@ Identifying Infected Areas During Pandemic Through Social Mobility and Reported 
 
 **Important Links**
 
-META’s Data for Good: 
+META’s Data for Good:
 https://dataforgood.facebook.com/dfg/tools
 https://dataforgood.facebook.com/
+
 Facebook Traffic Data
 https://iuoffice365-my.sharepoint.com/:f:/g/personal/400286_iu_edu_sa/Et5jRn-mlgtGv1dlOXYSGZwBtliXrUoiXdJUXqIFVhTMtQ?e=QaY7QL
+
 Movements between Administrative Regions
 https://iuoffice365-my.sharepoint.com/:f:/g/personal/400286_iu_edu_sa/Ep_HsdLJWl1OvlHflw3Ryj4B5cTnEi_47W7P9l83xtfOgg?e=bQZtMy
 
